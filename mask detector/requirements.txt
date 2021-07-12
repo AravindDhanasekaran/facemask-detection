@@ -1,0 +1,6 @@
+imutils==0.5.3
+numpy==1.16.5
+cvlib==0.2.6
+opencv_python==4.5.2.54
+Flask==1.1.1
+tensorflow==1.15.0
